@@ -12,7 +12,7 @@ If you’ve created your wiring diagram in Tinkercad or Fritzing, save it as `[d
 |------------|-----------|-------------|
 | Arduino Uno | 1 | Main controller board |
 | LEDs (x8) or 7-segment display | 1 | To display digits 1–9 |
-| Resistors (220 Ω) | 8 | For LEDs |
+| Resistors (220 Ω) | 1 | For LEDs |
 | Buzzer | 1 | For sound alert |
 | Push button | 1 | To start the countdown |
 | Wires and breadboard | – | For connections |
