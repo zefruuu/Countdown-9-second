@@ -2,14 +2,19 @@
 Arduino project, a simple 9-second timer, can be restarted by pressing a button, and a sound is emitted when the timer ends.
 
 ## 🖼️ Circuit Diagram
-If you’ve created your wiring diagram in Tinkercad or Fritzing, save it as `[docs/schematic.png](https://drive.google.com/file/d/1CmBbQH6z5q1-sLIL_vnh-RqjvL_QcxTe/view?usp=sharing)` and add it here:
 
-![Circuit Diagram]([docs/schematic.png](https://drive.google.com/file/d/1CmBbQH6z5q1-sLIL_vnh-RqjvL_QcxTe/view?usp=sharing))
+<img width="1536" height="632" alt="schematicArduinoProject1" src="https://github.com/user-attachments/assets/9fc7b4ba-72aa-4f3a-ac60-f9fe81e80f97" />
+
+
+
+
+
 
 ## 🔧 Components
 
 | Component | Quantity | Description |
-|------------|-----------|-------------|
+|------------|-----------|-------------|![Uploading schematicArduinoProject1.png…]()
+
 | Arduino Uno | 1 | Main controller board |
 | LEDs (x8) or 7-segment display | 1 | To display digits 1–9 |
 | Resistors (220 Ω) | 1 | For LEDs |
